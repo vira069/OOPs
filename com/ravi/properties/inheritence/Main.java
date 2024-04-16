@@ -21,7 +21,7 @@ public class Main {
         // this also means, that the ones you are trying to access should be initialised
         // but here, when the obj itself is of type parent class, how will you call the constructor of child class
         // this is why error
-//        BoxWeight box6 = new Box(2, 3, 4);
+ //        BoxWeight box6 = new Box(2, 3, 4);
 //        System.out.println(box6);
 
 //        Box.greeting();
