@@ -1,4 +1,4 @@
-package com.ravi.properties.inheritence;
+package com.ravi.OOP_Properties.inheritence;
 
 public class Main {
     public static void main(String[] args) {

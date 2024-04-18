@@ -1,4 +1,4 @@
-package com.ravi.properties.inheritence;
+package com.ravi.OOP_Properties.inheritence;
 
 public class Example1 {
     public static class Animal {

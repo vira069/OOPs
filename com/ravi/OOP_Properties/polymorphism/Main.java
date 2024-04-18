@@ -1,4 +1,4 @@
-package com.ravi.properties.polymorphism;
+package com.ravi.OOP_Properties.polymorphism;
 
 public class Main {
     public static void main(String[] args) {

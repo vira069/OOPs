@@ -1,4 +1,4 @@
-package com.ravi.properties.inheritence;
+package com.ravi.OOP_Properties.inheritence;
 
 public class Fish extends Example1 {
     int fins;

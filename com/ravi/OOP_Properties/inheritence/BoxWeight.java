@@ -1,4 +1,4 @@
-package com.ravi.properties.inheritence;
+package com.ravi.OOP_Properties.inheritence;
 
 import java.util.ArrayList;
 

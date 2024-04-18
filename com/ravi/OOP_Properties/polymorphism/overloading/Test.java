@@ -1,4 +1,4 @@
-package com.ravi.properties.polymorphism.overloading;
+package com.ravi.OOP_Properties.polymorphism.overloading;
 
     // Returning an object.
     class Test {
